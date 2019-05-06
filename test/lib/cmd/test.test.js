@@ -262,3 +262,7 @@ describe('test/lib/cmd/test.test.js', () => {
     });
   });
 });
+64834
+64840
+53616
+53625
